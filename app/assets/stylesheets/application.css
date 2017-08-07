@@ -13,3 +13,16 @@
  *= require_tree .
  *= require_self
  */
+.my-style {
+  padding: 50vh;
+}
+
+.li-padding {
+  padding : 20px;
+}
+
+.text-grey {
+  color : rgb(180, 180, 180);
+  font-style: italic;
+  font-weight: lighter;
+}
